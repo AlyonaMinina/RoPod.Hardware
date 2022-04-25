@@ -2,7 +2,7 @@
 
 ## RoPod v23 
 -	**Optimal for imaging roots of 2-5 days old Arabidopsis seedlings**
--	Can accomodate up to 20 seedlings
+-	A single-well chamber, can accomodate up to 20 seedlings
 -	Outer measurements 30 x 76 x 11 mm, compatible with standard inverted microscope stages
 -	Chamber V = ca 6 ml
 -	Designed for microscopy glass 24 x 60 x 0.17mm (#1.5) 
@@ -26,7 +26,7 @@
    
   ## RoPod v24 
 -	**Optimal for imaging roots of 2-5 days old Arabidopsis seedlings**
--	Can accomodate up to 11 seedlings
+-	A single-well chamber, can accomodate up to 11 seedlings
 - Separators create lanes for individual root growth 
 - An arc on the top of each lane guides young root growth in the desired direction
 -	Outer measurements 30 x 76 x 11 mm, compatible with standard inverted microscope stages
