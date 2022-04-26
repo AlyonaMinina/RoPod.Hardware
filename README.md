@@ -1,6 +1,40 @@
-# RoPod.Hardware
+# RoPod 
+ RoPod is a toolkit that comprises microscopy chambers, in which you can grow and image Arabidopsis thaliana seedlings roots without taking the plants out, and a detailed protocol on how to do it. No stress!
+Check out our  [semi-automated tool for root hair growth](https://github.com/AlyonaMinina/RoPod.Image.Processing)
+<br/>
+<details><summary>Why use RoPod</summary> <br/>  
+<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20preview.png?raw=true" width="400" title="RoPod23.4 preview"> 
+<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/mounted%20on%20confocal%20RoPod%205.png?raw=true" width="400" title="RoPod23.4 preview"> 
 
-## RoPod v23 
+
+- Plants are **grown and imaged within the same chamber**, thus sample mounting and imaging causes there  little to none mechanical stress<br/><br/> 
+- RoPods **prevent samples from drying during imaging**, allowing  long-term time-lapse series <br/><br/> 
+- Plant growth within RoPod **requires very small volume of the medium**, thus drug treatment will require a small amount of compounds <br/><br/>
+- The watertight RoPods allow **drug treatment in chambers positioned vertically and horizontally**<br/><br/>
+- RoPods allows **multiple biological replicates being imaged simultaniously** (up to 20 seedlings in a RoPod v23) <br/><br/>
+- **Plants are immobilized within the chamber**, thus the same plant can be easily tracked in a RoPod in multiple imaging sessions <br/><br/>
+- RoPods with individual lanes prevent roots crossing during growth and make **tracking of biological replicates easy**<br/><br/>
+- **RoPods are very cheap and reusable**, printing one chamber with a lid takes ca 10g of a PETG or PLA filament and two 24 x 60mm microscopy coverglass (#1.5, i.e. 0.16-0.19 mm thick)<br/><br/>
+- The **microscopy-grade glass is printed into the plastic** and will never detach from the chamber in the middle of your experiment<br/><br/> | 
+<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%202.png?raw=true" width="400" title="RoPod23.4 preview"> 
+  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%201.png?raw=true" width="400" title="RoPod23.4 preview"> 
+</details>
+
+<details><summary>How To Grow Arabidopsis in RoPods</summary> 
+<br/>
+</details>
+<details><summary>How to print RoPods</summary> 
+<br/>
+</details>
+<br/>
+
+ ## RoPod.Hardware
+Arabidopsis-optimized microscopy chambers for seedling growth and root imaging
+RoPods are plant-optimized chambers with top and bottom made out of microscopy-grade glass. Plants are grown and imaged in the same chamber - no stress! RoPods with watertight design allow drug treatments and stress-free long-term time-lapse imaging at low and high magnifications. Separate lanes for individual roots enable easy tracking of the same biological replicate during experiments. 
+<br/>
+<br/>
+
+ ### RoPod v23 
 -	**Optimal for imaging roots of 2-5 days old Arabidopsis seedlings**
 -	A single-well chamber, can accomodate up to 20 seedlings
 -	Outer measurements 30 x 76 x 11 mm, compatible with standard inverted microscope stages
@@ -10,7 +44,7 @@
 
 |Version <img width="50"> |Preview<img width="400">|Files <img width="500"> |Comments<img width="300">|
 | --- | --- | ---|---|
-|**v23.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20preview.png?raw=true" width="400" title="RoPod23.4 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20empty.png?raw=true" width="400" title="RoPod23.4 preview">  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v23.4 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/Chamber%20v23.4.3mf)<br/> [RoPod v23.4 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/Lid%20v23.4.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v23.4 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/RoPod%2023.4%20with%20adjustable%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v23.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/RoPod%20v23.4.f3d)</details><br/> <details><summary>Printing instructions</summary><br/>   1. Printing one chamber with a lid takes ca 2 h and ca 10 g of filament<br/>  2. Variable layer height feature (available for Prusa printers) allows small layer height beneficial for efficient embedding of the glass into the print and a larger layer height for the rest of the structure. For an example see the provided Slic3r project file<br/> 3. Use the pause function to insert the glass. We recommend to glue the glass at  two corners to ensure it stays in place during printing (see the video). <br/> 4.	It is advisable to check the filament for toxicity. To our experience, clear PETG does not impact Arabidopsis growth. </details>  |-The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
+|**v23.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20preview.png?raw=true" width="400" title="RoPod23.4 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20empty.png?raw=true" width="400" title="RoPod23.4 preview">  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v23.4 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/Chamber%20v23.4.3mf)<br/> [RoPod v23.4 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/Lid%20v23.4.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v23.4 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/RoPod%2023.4%20with%20adjustable%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v23.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/RoPod%20v23.4.f3d)</details><br/> <details><summary>Printing instructions</summary><br/>   1. Printing one chamber with a lid takes ca 2 h and ca 10 g of filament<br/>  2. Variable layer height feature (available for Prusa printers) allows small layer height beneficial for efficient embedding of the glass into the print and a larger layer height for the rest of the structure. For an example see the provided Slic3r project file<br/> 3. Use the pause function to insert the glass. We recommend to glue the glass at  two corners to ensure it stays in place during printing (see the video). <br/> 4.	It is advisable to check the filament for toxicity. To our experience, clear PETG does not impact Arabidopsis growth. </details>  | The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
 
 <details><summary>Previous iterations of the RoPod v23 </summary>
   
@@ -22,9 +56,8 @@
   </details>
   <br/>
   <br/>
-   
-   
-  ## RoPod v24 
+    
+  ### RoPod v24 
 -	**Optimal for imaging roots of 2-5 days old Arabidopsis seedlings**
 -	A single-well chamber, can accomodate up to 11 seedlings
 - Separators create lanes for individual root growth 
@@ -36,7 +69,7 @@
 
 |Version <img width="50"> |Preview<img width="400">|Files <img width="500"> |Comments<img width="300">|
 | --- | --- | ---|---|
-|**v24.3**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20preview.png?raw=true" width="400" title="RoPod24.3 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%202.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%202.png?raw=true" width="400"> </br>  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v24.3 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3.3mf)<br/> [RoPod v24.3 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Lid%20v24.3.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v24.3 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3%20with%20variable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v24.3.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/RoPod%20v24.3.f3d)</details><br/> <details><summary>Printing instructions</summary><br/>   1. Printing one chamber + lid takes ca 2h and ca 10g of filament<br/>  2. Variable layer height feature (available for Prusa printers) allows small layer height beneficial for efficient embedding of the glass into the print and a larger layer height for the rest of the structure. For an example see the provided Slic3r project file<br/> 3. Use of brim reduces warping and detachment of the first layers</br> 4.Use the pause function to insert the glass. We recommend to glue the glass at  two corners to ensure it stays in place during printing (see the video). <br/> 5.	It is advisable to check the filament for toxicity. To our experience, clear PETG does not impact Arabidopsis growth. </details>  |-The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
+|**v24.3**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20preview.png?raw=true" width="400" title="RoPod24.3 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%202.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%202.png?raw=true" width="400"> </br>  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v24.3 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3.3mf)<br/> [RoPod v24.3 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Lid%20v24.3.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v24.3 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3%20with%20variable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v24.3.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/RoPod%20v24.3.f3d)</details><br/> <details><summary>Printing instructions</summary><br/>   1. Printing one chamber + lid takes ca 2h and ca 10g of filament<br/>  2. Variable layer height feature (available for Prusa printers) allows small layer height beneficial for efficient embedding of the glass into the print and a larger layer height for the rest of the structure. For an example see the provided Slic3r project file<br/> 3. Use of brim reduces warping and detachment of the first layers</br> 4.Use the pause function to insert the glass. We recommend to glue the glass at  two corners to ensure it stays in place during printing (see the video). <br/> 5.	It is advisable to check the filament for toxicity. To our experience, clear PETG does not impact Arabidopsis growth. </details>  |The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
 
 <details><summary>Previous iterations of the RoPod v24 </summary>
   
