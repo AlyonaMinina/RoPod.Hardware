@@ -1,13 +1,14 @@
 # RoPod 
 
- RoPod is a toolkit that comprises microscopy chambers, in which you can grow and image Arabidopsis thaliana seedlings roots without taking the plants out, and a detailed protocol on how to do it. No stress!
-Check out our  [semi-automated tool for root hair growth](https://github.com/AlyonaMinina/RoPod.Image.Processing)
-<br/>
+RoPod is a compact, **pod**-like chamber for advanced microscopy of plant **roots**.  Plants are grown and imaged in the same chamber - no need to move seedlings from the cozy growth medium onto a hostile microscopy glass and no need to worry about seedligns drying up drying during imaging! No stress!
+
+**RoPods** top and bottom is made out of microscopy-grade glass (coverslip with thickness 0.17 mm, #1.5). RoPods with watertight design allow drug treatments and stress-free long-term time-lapse imaging at low and high magnifications. RoPods with lanes for individual roots enable easy tracking of the same biological replicate during experiments. 
+
+Furthermore, **RoPod** is not just a chamber, it **is a toolkit** that comprises chambers of various deigns optimized for different aplplications, detailed protocol on how to do use them, including examples of semi-automated image analysis. Check out our  [semi-automated tool for root hair growth](https://github.com/AlyonaMinina/RoPod.Image.Processing)
 <br/>
 <p align="center">
 <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/RoPod%20v24.3%20v5.gif?raw=true" width="600"> 
  </p>
- </br>
 <details><summary>Why use RoPod</summary> <br/>  
 <p align="center">
 <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20empty.png?raw=true" width="300"> 
@@ -119,12 +120,8 @@ In this video you can find a short demo for RoPod chambers printing.
 <br/>
 
  ## RoPod.Hardware
-Arabidopsis-optimized microscopy chambers for seedling growth and root imaging
-<br/>
-<br/>
-**RoPods are plant-optimized chambers** with top and bottom made out of microscopy-grade glass. Plants are grown and imaged in the same chamber - no stress! RoPods with watertight design allow drug treatments and stress-free long-term time-lapse imaging at low and high magnifications. Separate lanes for individual roots enable easy tracking of the same biological replicate during experiments. 
 
-Below you can find most used versions of RoPods optimized for a number of different applicaitons. We provide a brief description, object and project .3mf files for printing and Autodesk Fusion 360 3fd file to be used if fine-tuning of a model is needed.
+Below you can find the most used versions of RoPods optimized for a number of different applicaitons. We provide a brief description, .3mf files for printing and Autodesk Fusion 360 .3fd file to be used if fine-tuning of a model is needed.
 <br/>
 <br/>
 
