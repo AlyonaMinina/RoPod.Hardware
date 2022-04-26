@@ -3,12 +3,14 @@
 RoPod is a compact, **pod**-like chamber for advanced microscopy of plant **roots**.  Plants are grown and imaged in the same chamber - no need to move seedlings from the cozy growth medium onto a hostile microscopy glass and no need to worry about seedligns drying up drying during imaging! No stress!
 
 **RoPods** top and bottom is made out of microscopy-grade glass (coverslip with thickness 0.17 mm, #1.5). RoPods with watertight design allow drug treatments and stress-free long-term time-lapse imaging at low and high magnifications. RoPods with lanes for individual roots enable easy tracking of the same biological replicate during experiments. 
-
-Furthermore, **RoPod** is not just a chamber, it **is a toolkit** that comprises chambers of various deigns optimized for different aplplications, detailed protocol on how to do use them, including examples of semi-automated image analysis. Check out our  [semi-automated tool for root hair growth](https://github.com/AlyonaMinina/RoPod.Image.Processing)
-<br/>
 <p align="center">
 <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/RoPod%20v24.3%20v5.gif?raw=true" width="600"> 
  </p>
+
+ 
+**RoPod** is more than just a chamber, it **is a toolkit** that comprises customizable chambers of various designs optimized for different aplplications, detailed protocol on how to do use them and examples of semi-automated image analysis. Check out our  [semi-automated tool for root hair growth](https://github.com/AlyonaMinina/RoPod.Image.Processing)
+<br/>
+
 <details><summary>Why use RoPod</summary> <br/>  
 <p align="center">
 <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20empty.png?raw=true" width="300"> 
@@ -29,6 +31,8 @@ Furthermore, **RoPod** is not just a chamber, it **is a toolkit** that comprises
 
 <details><summary>How to grow Arabidopsis in RoPods</summary> 
 <br/> 
+
+ 
  
 [<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/Screenshot%20for%20growing%20Arabidopsis%20in%20RoPods%20demo%20video.png?raw=true" width="500" title="Seed plating demo video">](https://www.youtube.com/watch?v=jWTp5Sgqe-Q&ab_channel=AlyonaMinina)
  
@@ -58,8 +62,8 @@ Place the plate vertically under growth conditions. It is advisable to slightly 
 
 <details><summary>How to print RoPods</summary> 
 <br/> 
-  
-[<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/Screenshot%20for%20printing%20RoPods%20demo%20video.png?raw=true" width="500" title="RoPod printing demo video">](https://www.youtube.com/watch?v=7gexCgdOQ24&ab_channel=AlyonaMinina)
+ 
+  [<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/Screenshot%20for%20printing%20RoPods%20demo%20video.png?raw=true" width="500" title="RoPod printing demo video">](https://www.youtube.com/watch?v=7gexCgdOQ24&ab_channel=AlyonaMinina)
 
 In this video you can find a short demo for RoPod chambers printing.
 <br/>
