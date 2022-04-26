@@ -59,7 +59,7 @@ Place the plate vertically under growth conditions. It is advisable to slightly 
 <details><summary>How to print RoPods</summary> 
 <br/> 
   
-[<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/Screenshot%20for%20printing%20RoPods%20demo%20video.png?raw=true" width="500" title="Seed plating demo video">](https://www.youtube.com/watch?v=jWTp5Sgqe-Q&ab_channel=AlyonaMinina)
+[<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/Screenshot%20for%20printing%20RoPods%20demo%20video.png?raw=true" width="500" title="RoPod printing demo video">](https://www.youtube.com/watch?v=7gexCgdOQ24&ab_channel=AlyonaMinina)
 
 In this video you can find a short demo for RoPod chambers printing.
 <br/>
@@ -124,6 +124,30 @@ In this video you can find a short demo for RoPod chambers printing.
 Below you can find the most used versions of RoPods optimized for a number of different applicaitons. We provide a brief description, .3mf files for printing and Autodesk Fusion 360 .3fd file to be used if fine-tuning of a model is needed.
 <br/>
 <br/>
+   
+  ### RoPod v24 
+-	**Optimal for imaging roots of 3-6 days old Arabidopsis seedlings**
+-	A single-well chamber, can accomodate up to 11 seedlings
+- Separators create lanes for individual root growth 
+- An arc on the top of each lane guides young root growth in the desired direction
+-	Outer measurements 30 x 76 x 11 mm, compatible with standard inverted microscope stages
+-	Chamber V = ca 6 ml
+-	Designed for microscopy glass 24 x 60 x 0.17mm (#1.5) 
+-	Glass is incorporated into the chamber and the lid during printing
+
+|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v24.3**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20preview.png?raw=true" width="400" title="RoPod24.3 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%202.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%202.png?raw=true" width="400"> </br>  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v24.3 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3.3mf)<br/> [RoPod v24.3 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Lid%20v24.3.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v24.3 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3%20with%20variable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v24.3.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/RoPod%20v24.3.f3d)</details><br/> <details><summary>Printing instructions</summary><br/> 1. Printing one chamber with a lid takes ca 2 h and ca 10 g of filament <br/> <br/> 2. For general instructions see the information above ("How to print RoPods") </details> |The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
+
+<details><summary>Previous versions of the RoPod v24 </summary>
+  
+|Version <img width="50"> |Preview<img width="400">|Files <img width="500"> |Comments<img width="300">|
+| --------- | --- | --- | --- |
+| **v24.2** | --- | --- | --- |
+| **v24.1** | --- | --- | --- |
+  </details>
+  <br/>
+  <br/>
 
  ### RoPod v23 
 -	**Optimal for imaging roots of 3-6 days old Arabidopsis seedlings**
@@ -133,7 +157,7 @@ Below you can find the most used versions of RoPods optimized for a number of di
 -	Designed for microscopy glass 24 x 60 x 0.17mm (#1.5) 
 -	Glass is incorporated into the chamber and the lid during printing
 
-|Version <img width="50"> |Preview<img width="400">|Files <img width="600"> |Comments<img width="300">|
+|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
 | --- | --- | ---|---|
 |**v23.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20preview.png?raw=true" width="400" title="RoPod23.4 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20empty.png?raw=true" width="400" title="RoPod23.4 preview">  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v23.4 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/Chamber%20v23.4.3mf)<br/> [RoPod v23.4 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/Lid%20v23.4.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v23.4 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/RoPod%2023.4%20with%20adjustable%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v23.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v23/RoPod%20v23.4.f3d)</details><br/> <details><summary>Printing instructions</summary><br/> 1. Printing one chamber with a lid takes ca 2 h and ca 10 g of filament <br/><br/> 2. For general instructions see the information above ("How to print RoPods")</details> | The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
 
@@ -147,25 +171,22 @@ Below you can find the most used versions of RoPods optimized for a number of di
   </details>
   <br/>
   <br/>
-    
-  ### RoPod v24 
+
+### RoPod v22
 -	**Optimal for imaging roots of 3-6 days old Arabidopsis seedlings**
--	A single-well chamber, can accomodate up to 11 seedlings
-- Separators create lanes for individual root growth 
-- An arc on the top of each lane guides young root growth in the desired direction
--	Outer measurements 30 x 76 x 11 mm, compatible with standard inverted microscope stages
--	Chamber V = ca 6 ml
--	Designed for microscopy glass 24 x 60 x 0.17mm (#1.5) 
--	Glass is incorporated into the chamber and the lid during printing
+-	A single-well chamber, can accomodate up to 20 seedlings
+-	Outer measurements 30 x 75 x 11 mm, compatible with standard inverted microscope stages
+- A two-well chamber, can accomodate 5 seedlings/well. The chamber has been originally designed for plant cell culture and protoplasts imaging
+- Well V = ca 3 ml
+- The chamber bottom is made out of two 24 x 24mm coverslips, the lid contains one 24 x 60mm coverslip. All coverslips are 0.17mm thick (#1.5) 
 
-|Version <img width="50"> |Preview<img width="400">|Files <img width="600"> |Comments<img width="300">|
-| --- | --- | ---|---|
-|**v24.3**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20preview.png?raw=true" width="400" title="RoPod24.3 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20empty%202.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%202.png?raw=true" width="400"> </br>  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v24.3 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3.3mf)<br/> [RoPod v24.3 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Lid%20v24.3.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v24.3 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/Chamber%20v24.3%20with%20variable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v24.3.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v24/RoPod%20v24.3.f3d)</details><br/> <details><summary>Printing instructions</summary><br/> 1. Printing one chamber with a lid takes ca 2 h and ca 10 g of filament <br/> <br/> 2. For general instructions see the information above ("How to print RoPods") </details> |The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
+| Version | Preview <img width="900"> | Files <img width="700"> | Comments |
+| ------- | ------------------------- | ----------------------- | -------- |
+|**v22.1**                               |  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v22/RoPod%2022.1%20preview.png?raw=true" width="400" title="RoPod22.1 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v22/RoPod%2022.1%20preview%20bottom.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v22/RoPod%2022.1%20empty%201.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v22/RoPod%2022.1%20empty%202.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v22/RoPod%2022.1%20empty%203.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v22/RoPod%2022.1%20empty%204.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v22/RoPod%2022.1%20mounted%20on%20confocal%201.png?raw=true" width="400"> </br>   </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v22.1 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v22/RoPod%20v%2022.1%20Chamber.3mf)<br/> [RoPod v22.1 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v22/RoPod%20v%2022.1%20Lid.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v22.1 with variable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v22/RoPod%20v22.1%20project%20file%20with%20variable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v22.1.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v22/RoPod%20v22.1.f3d)</details><br/> <details><summary>Printing instructions</summary><br/>   1. Printing one chamber + lid takes ca 2h and ca 14g of filament <br/> <br/> 2. For general instructions see the information above ("How to print RoPods") </details>  | RoPod v22 was originally designed for simulatious imaging of two protoplast samples (with and without drug treatment). A version printed with clear filament was later also used for growing Arabidopsis seedlings | 
 
-<details><summary>Previous versions of the RoPod v24 </summary>
+<details><summary>Previous versions of the RoPod v22 </summary>
   
-|Version <img width="50"> |Preview<img width="400">|Files <img width="500"> |Comments<img width="300">|
-| --------- | --- | --- | --- |
-| **v24.2** | --- | --- | --- |
-| **v24.1** | --- | --- | --- |
-  </details>
+| Version <img width="50"> | Preview<img width="400"> | Files <img width="500"> | Comments<img width="300"> |
+| ----------------------------------- | ------------------------------------ | --------------------------------- | ---------------------------------------- |
+
+ </details>
