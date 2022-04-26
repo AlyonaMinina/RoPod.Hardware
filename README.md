@@ -2,15 +2,12 @@
 
  RoPod is a toolkit that comprises microscopy chambers, in which you can grow and image Arabidopsis thaliana seedlings roots without taking the plants out, and a detailed protocol on how to do it. No stress!
 Check out our  [semi-automated tool for root hair growth](https://github.com/AlyonaMinina/RoPod.Image.Processing)
-
-
-
-
-
-
-
 <br/>
 <br/>
+<p align="center">
+<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/RoPod%20v24.3%20v5.gif?raw=true" width="600"> 
+ </p>
+ </br>
 <details><summary>Why use RoPod</summary> <br/>  
 <p align="center">
 <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20empty.png?raw=true" width="300"> 
