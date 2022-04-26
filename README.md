@@ -3,28 +3,112 @@
 Check out our  [semi-automated tool for root hair growth](https://github.com/AlyonaMinina/RoPod.Image.Processing)
 <br/>
 <details><summary>Why use RoPod</summary> <br/>  
-<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20preview.png?raw=true" width="400" title="RoPod23.4 preview"> 
-<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/mounted%20on%20confocal%20RoPod%205.png?raw=true" width="400" title="RoPod23.4 preview"> 
-
+<p align="center">
+<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v23/RoPod%2023.4%20empty.png?raw=true" width="300"> 
+<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%201.png?raw=true" width="300"> 
+<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/mounted%20on%20confocal%20RoPod%205.png?raw=true" width="300" > 
+</p>
 
 - Plants are **grown and imaged within the same chamber**, thus sample mounting and imaging causes there  little to none mechanical stress<br/><br/> 
-- RoPods **prevent samples from drying during imaging**, allowing  long-term time-lapse series <br/><br/> 
+- RoPods **prevent samples from drying during imaging**, allowing  long-term time-lapse series <br/><br/>
 - Plant growth within RoPod **requires very small volume of the medium**, thus drug treatment will require a small amount of compounds <br/><br/>
 - The watertight RoPods allow **drug treatment in chambers positioned vertically and horizontally**<br/><br/>
 - RoPods allows **multiple biological replicates being imaged simultaniously** (up to 20 seedlings in a RoPod v23) <br/><br/>
 - **Plants are immobilized within the chamber**, thus the same plant can be easily tracked in a RoPod in multiple imaging sessions <br/><br/>
 - RoPods with individual lanes prevent roots crossing during growth and make **tracking of biological replicates easy**<br/><br/>
 - **RoPods are very cheap and reusable**, printing one chamber with a lid takes ca 10g of a PETG or PLA filament and two 24 x 60mm microscopy coverglass (#1.5, i.e. 0.16-0.19 mm thick)<br/><br/>
-- The **microscopy-grade glass is printed into the plastic** and will never detach from the chamber in the middle of your experiment<br/><br/> | 
-<img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%202.png?raw=true" width="400" title="RoPod23.4 preview"> 
-  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v24/RoPod%2024.3%20with%20seedlings%201.png?raw=true" width="400" title="RoPod23.4 preview"> 
+- The **microscopy-grade glass is printed into the plastic** and will never detach from the chamber in the middle of your experiment<br/><br/> 
 </details>
 
 <details><summary>How To Grow Arabidopsis in RoPods</summary> 
+<br/> 
+
+ [![Seed plating demo video](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/Screenshot%20for%20growing%20Arabidopsis%20in%20RoPods%20demo%20video.png?raw=true)](https://www.youtube.com/watch?v=jWTp5Sgqe-Q&ab_channel=AlyonaMinina "Seed plating demo video")
+<br/> 
+<p align="center">
+In this video you can find a short step-by-step demonstration of how to prep RoPod chambers for *Arabidopsis thaliana* growth.
+</p>
 <br/>
+<br/>
+
+- **Step 1. Sterilize the RoPod.**
+ The quickest way to do it is using UV in a laminar flow hood. Place the open chamber and the lid (inner side up) under the UV light, 30 minutes of exposure is usually sufficient.
+ 
+ - **Step 2. Cast the growth medium.**
+Thaw 0.5x MS in a microwave, let it cool to 60 C and pipette 3-4 mL into the sterile chamber. Make sure the medium is evenly distributed in the chamber and there are no bubbles.
+ 
+ - **Step 3. Remove a strip of the growth medium.**
+Let the medium solidify and then use a tip or toothpick to remove a ca 5 mm wide strip of the medium, this will give space for the areal part of seedlings. For RoPod with arcs (5, v24 etc.) make sure arcs are not covered by the medium.
+ 
+  - **Step 4. Transfer seeds.**
+Use a sterile toothpick to places seeds on the bottom glass by the edge of the medium. For RoPod 5 place the seeds “under” the arches, which are designed to guide young roots into the individual channels
+ 
+   - **Step 5. Close the chamber.**
+ RoPods with watertight lids do not need to be sealed individually, other RoPods require it. Place the chamber into a square Petri plate and seal it. 
+
+ - **Step 6. Place the RoPod into a plant growth cabinet.**
+Place the plate vertically under growth conditions. It is advisable to slightly tilt the chamber backwards to guide root growth along the bottom coverslip. Lids of some RoPod versions (e.g. v23.4, 23.4 etc) ensure such tilt <br/><br/>
 </details>
+
 <details><summary>How to print RoPods</summary> 
 <br/>
+ 
+[![Printing demo video](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.applications/Screenshot%20for%20printing%20RoPods%20demo%20video.png?raw=true)](https://www.youtube.com/watch?v=jWTp5Sgqe-Q&ab_channel=AlyonaMinina "Printing demo video")
+<br/> 
+<p align="center">
+In this video you can find a short step-by-step demonstration of how to prep RoPod chambers for *Arabidopsis thaliana* growth.
+</p>
+<br/>
+<br/>
+ 
+**For printing you will need:**
+- access to an FDM 3D printer with a nozzle 0.4 mm
+- clear PETG filament, ⌀ 1.75 mm
+- 24 x 60 mm microscopy coverslip #1.5, i.e. 0.16-0.19 mm thick ( VWR, 630-2108)
+- superglue
+- .3mf or .stl file for RoPods
+ <br/>
+ <br/>
+ 
+ **Step 1. Generate the g-code:**
+ 
+- Files required for printing are provided in the tables below
+- Prior to printing, the models can be tunded using the provided Autodesk .3fd files 
+- An example of recommended settings for printing each RoPod version is in the provided project file. 
+- Make sure that the chamber and the lid are positioned with the rims looking upwards and the glass insertion layer closest to the print bed
+- Print settings-> Layer height = 0.1 mm (if possible we recommend using variable layer height)
+- Print settings-> Fill density = 50%
+- Print settings-> Fill pattern = 3D Honeycomb
+- Print settings-> Layers and Perimeters-> Vertical shells-> Perimeters = 4
+- Slice the model and [insert a pause](https://help.prusa3d.com/article/insert-pause-or-custom-g-code-at-layer_120490) at the layer right before the layer with the slot for the glass
+ - You can simultaneously print up to 17 RoPods on a Prusa MK2or MK3. However we strongly recommend to start with just one
+ <br/>
+ <br/>
+ 
+  **Step 2. Clean the coverslip glasses:**
+ - Remove dust and fat from the glasses by wiping them clean with a paper tissue soaked in acetone​
+ <br/>
+ <br/>
+ 
+  **Step 3. Start the print:**
+ - Start the print and wait until it automatically pauses on the layer programmed int the Step 1.
+ - The extruder will move to the back left of the print bed while waiting for the user to resume the print
+ <br/>
+ <br/>
+ 
+  **Step 4. Place the glasses into the slots:**
+ - The chambers and lids models have ca 0.18mm deep slots for the coverslips
+ - Add a drop of super glue to two corners of a glass. This will secure the glass' position during printing
+ - Use forceps and patience to carefully place the glass into its slot. Make sure it does not stick upwards or sideways
+ - Press down on the the corners with glue and hold for a few seconds. sic! wear gloves! superglueing oneself to a 90C- hot print bed is not a good way to start your day
+ <br/>
+ <br/>
+ 
+  **Step 5.Resume the print:**
+ - Resume the print and make sure the the filament does not move the glass from its position and does not crack it
+ - When the chamber is ready make sure there is no filament sticking sideways. If needed imperfections can be removed with a scalpel
+ <br/>
+ <br/>
 </details>
 <br/>
 
