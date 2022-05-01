@@ -194,3 +194,28 @@ Below you can find the most used versions of RoPods optimized for a number of di
 | ----------------------------------- | ------------------------------------ | --------------------------------- | ---------------------------------------- |
 
  </details>
+ <br/>
+ <br/>
+
+   ### RoPod v5
+-	**Optimal for imaging roots of 3-6 days old Arabidopsis seedlings**
+-	A single-well chamber, can accommodate up to 15 seedlings
+-	An insert for an o-ring and clamps are added for proper liquid sealing
+-	A hole is inserted on top of the box for liquide medium injection
+- No separators are added to allow the root hairs to freely develop on both sides of the root
+-	Outer measurements 29.2 x 76 x 14.6 mm
+-	Chamber V = ca 6 ml
+-	Designed for microscopy glass 24 x 60 x 0.17mm (#1.5) 
+-	Glass is incorporated into the chamber and the lid during printing
+-	Suitable for liquid treatment on a vertical microscope
+
+|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v5.2**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_Main-preview.png?raw=true" width="400" title="RoPod5.2 preview"> <details><summary>Show more</summary> <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_Supl-preview_1.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_Supl-preview_2.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_Supl-preview_3.png?raw=true" width="400"> </br>  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_Supl-preview_4.png?raw=true" width="400"> </br>  </details> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v5.2 chamber.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_chamber.3mf)<br/> [RoPod v5.2 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_lid.3mf)<br/><br/><br/> Slc3r project file:<br/>[RoPod v5.2 with adjustable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/Prusa_RoPod5-2.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v5.2.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2.f3d)</details><br/> <details><summary>Printing instructions</summary><br/> 1. On the lid, force the seam of the print on the top of the chamber (on the same side as the injection hole) <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.5/v2/RoPod5-2_Supl-preview_5.png?raw=true" width="400"> <br/> <br/> 2. Printing one chamber with a lid takes ca 2 h and ca 18 g of filament <br/> 3. For general instructions see the information above ("How to print RoPods") </details> |The bottom edge of the lid is angled to slightly tilt the chamber for the optimal root growth along the bottom glass| 
+
+<details><summary>Previous versions of the RoPod v5 </summary>
+  
+|Version <img width="50"> |Preview<img width="400">|Files <img width="500"> |Comments<img width="300">|
+| --------- | --- | --- | --- |
+| **v5.1** | --- | --- | --- |
+  </details>
