@@ -128,6 +128,62 @@ In this video you can find a short demo for printing the RoPod chambers.
 Below you can find the most used versions of RoPods optimized for a number of different applicaitons. We provide a brief description, .3mf files for printing and Autodesk Fusion 360 .3fd file to be used if fine-tuning of a model is needed.
 <br/>
 <br/>
+
+
+
+
+
+
+
+### RoPod v25 
+-	**This large RoPod is designed for 64 x 48 x 0.17mm (#1.5) microscopy glass**
+-	Various versions with separators for individual root growth are available
+-	Outer chamber measures 69.2 x 50.7 x 8.6 mm and is designed to fit into ZEISS Universal mounting frame K
+-	We recommend using 7 ml of medium
+-	Designed for microscopy glass 24 x 60 x 0.17mm (#1.5) 
+-	Glass is incorporated into the chamber and the lid during printing
+
+|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v25 lid**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/lid%20v25/RoPod%2025%20lid.png" width="400" title="RoPod v25 lid preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/lid%20v25/RoPod%2025%20lid.3mf)<br/> [RoPod v25 lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/lid%20v25/RoPod%2025%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25 lid.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/lid%20v25/RoPod%2025%20lid.f3d)|v25 lid is suitable for all RoPods v25|
+
+ 
+|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v25.1**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.png" width="400" title="RoPod v25.1 lid preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.1.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.3mf)<br/> [RoPod v25.1 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.1.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.f3d)|---|
+ 
+|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v25.2**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.png" width="400" title="RoPod v25.1 lid preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.2.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.3mf)<br/> [RoPod v25.2 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.2.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.f3d)|---| 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For general instructions see the information above ("How to print RoPods") </details>
+
+<details><summary>Previous versions of the RoPod v24 </summary>
+  
+|Version <img width="50"> |Preview<img width="400">|Files <img width="500"> |Comments<img width="300">|
+| --------- | --- | --- | --- |
+| **v24.2** | --- | --- | --- |
+| **v24.1** | --- | --- | --- |
+  </details>
+  <br/>
+  <br/>
+
+
+
+
+
+
+
+
+
+
+
    
   ### RoPod v24 
 -	**Optimal for imaging roots of 3-6 days old Arabidopsis seedlings**
