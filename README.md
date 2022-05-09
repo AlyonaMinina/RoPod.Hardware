@@ -130,18 +130,11 @@ Below you can find the most used versions of RoPods optimized for a number of di
 <br/>
 
 
-
-
-
-
-
-
-
-
 ### RoPod v26 
 -	**This large RoPod is designed for 64 x 48 x 0.17mm (#1.5) microscopy glass**
 -	Various versions with separators for individual root growth are available
 -	Chamber with lid on measures 69.2 x 50.7 x 11.2 mm and is designed to fit into ZEISS Universal mounting frame K
+-	Unlike v25, these RoPods have a lid which fits on **seamlessly**
 -	We recommend using 7 ml of medium
 -	Glass is incorporated into the chamber and the lid during printing
 
@@ -165,23 +158,8 @@ Below you can find the most used versions of RoPods optimized for a number of di
 
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
 | --- | --- | ---|---|
-|**v26.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4.png" width="400" title="RoPod v26.4 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v26.4.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4.3mf)<br/> [RoPod v26.4 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v26.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4.f3d)|---|
- 
+|**v26.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4.png" width="400" title="RoPod v26.4 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v26.4.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4.3mf)<br/> [RoPod v26.4 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v26.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4.f3d)|4 compartments to grow 4 genotypes close to each other but avoid mix-ups |
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 ### RoPod v25 
 -	**This large RoPod is designed for 64 x 48 x 0.17mm (#1.5) microscopy glass**
@@ -213,19 +191,6 @@ Below you can find the most used versions of RoPods optimized for a number of di
 |**v25.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4.png" width="400" title="RoPod v25.4 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.4.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4.3mf)<br/> [RoPod v25.4 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4.f3d)|14 (wider) channels.This model is suitable for imaging of roots even in the channels at the sides, as the chmaber is redesigned to be more accessible for objectives with large magnification.| 
  
 For general instructions see the information above ("How to print RoPods") </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
    
   ### RoPod v24 
 -	**Optimal for imaging roots of 3-6 days old Arabidopsis seedlings**
