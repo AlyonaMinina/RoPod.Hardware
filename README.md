@@ -141,10 +141,6 @@ Below you can find the most used versions of RoPods optimized for a number of di
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
 | --- | --- | ---|---|
 |**v26 lid**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/lid%20v26/RoPod%2026%20lid.png" width="400" title="RoPod v26 lid preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v26 lid.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/lid%20v26/RoPod%2026%20lid.3mf)<br/> [RoPod v26 lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/lid%20v26/RoPod%2026%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v26 lid.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/lid%20v26/RoPod%2026%20lid.f3d)|v26 lid is suitable for all RoPods v26|
-
- 
-|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
-| --- | --- | ---|---|
 |**v26.1**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v1/RoPod%2026.1.png" width="400" title="RoPod v26.1 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v26.1.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v1/RoPod%2026.1.3mf)<br/> [RoPod v26.1 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v1/RoPod%2026.1%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v26.1.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v1/RoPod%2026.1.f3d)|---|
  
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
