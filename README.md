@@ -138,9 +138,8 @@ Below you can find the most used versions of RoPods optimized for a number of di
 ### RoPod v25 
 -	**This large RoPod is designed for 64 x 48 x 0.17mm (#1.5) microscopy glass**
 -	Various versions with separators for individual root growth are available
--	Outer chamber measures 69.2 x 50.7 x 8.6 mm and is designed to fit into ZEISS Universal mounting frame K
+-	Chamber measures 69.2 x 50.7 x 8.6 mm and is designed to fit into ZEISS Universal mounting frame K
 -	We recommend using 7 ml of medium
--	Designed for microscopy glass 24 x 60 x 0.17mm (#1.5) 
 -	Glass is incorporated into the chamber and the lid during printing
 
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
@@ -150,11 +149,22 @@ Below you can find the most used versions of RoPods optimized for a number of di
  
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
 | --- | --- | ---|---|
-|**v25.1**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.png" width="400" title="RoPod v25.1 lid preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.1.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.3mf)<br/> [RoPod v25.1 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.1.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.f3d)|---|
+|**v25.1**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.png" width="400" title="RoPod v25.1 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.1.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.3mf)<br/> [RoPod v25.1 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.1.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v1/RoPod%2025.1.f3d)|---|
  
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
 | --- | --- | ---|---|
-|**v25.2**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.png" width="400" title="RoPod v25.1 lid preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.2.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.3mf)<br/> [RoPod v25.2 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.2.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.f3d)|---| 
+|**v25.2**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.png" width="400" title="RoPod v25.2 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.2.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.3mf)<br/> [RoPod v25.2 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.2.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v2/RoPod%2025.2.f3d)|---| 
+ 
+ |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v25.3**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v3/RoPod%2025.3.png" width="400" title="RoPod v25.3 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.3.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v3/RoPod%2025.3.3mf)<br/> [RoPod v25.3 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v3/RoPod%2025.3%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.3.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v3/RoPod%2025.3.f3d)|---| 
+ 
+ 
+  |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v25.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4.png" width="400" title="RoPod v25.4 preview"> |<details><summary>Model files</summary><br/> Individual model files:<br/>[RoPod v25.4.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4.3mf)<br/> [RoPod v25.4 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v25.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v25/v4/RoPod%2025.4.f3d)|This model is suitable for imaging of roots even in the channels at the sides, as the chmaber is redesigned to be more accessible for objectives with large magnification.| 
+ 
+ 
  
  
  
