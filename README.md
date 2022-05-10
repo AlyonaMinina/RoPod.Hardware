@@ -137,6 +137,7 @@ Below you can find the most used versions of RoPods optimized for a number of di
 -	Unlike v25, these RoPods have a lid which fits on **seamlessly**
 -	We recommend using 7 ml of medium
 -	Glass is incorporated into the chamber and the lid during printing
+-	I recommend using a few drops of superglue not only in the corners, but also along the sides of the glass (due to the size of the glass)
 
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
 | --- | --- | ---|---|
@@ -153,6 +154,7 @@ Below you can find the most used versions of RoPods optimized for a number of di
 -	Chamber measures 69.2 x 50.7 x 8.6 mm and is designed to fit into ZEISS Universal mounting frame K
 -	We recommend using 7 ml of medium
 -	Glass is incorporated into the chamber and the lid during printing
+ I recommend using a few drops of superglue not only in the corners, but also along the sides of the glass (due to the size of the glass)
 
 |Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
 | --- | --- | ---|---|
