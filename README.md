@@ -125,10 +125,21 @@ In this video you can find a short demo for printing the RoPod chambers.
 
  ## RoPod.Hardware
 
-Below you can find the most used versions of RoPods optimized for a number of different applicaitons. We provide a brief description, .3mf files for printing and Autodesk Fusion 360 .3fd file to be used if fine-tuning of a model is needed.
+Below you can find the most used versions of RoPods optimized for a number of different applications. We provide a brief description, .3mf files for printing and Autodesk Fusion 360 .3fd file to be used if fine-tuning of a model is needed.
 <br/>
 <br/>
 
+### RoPod v1.1 
+-	**The original RoPod redesigned for smooth fit of chamber & lid**
+-	Outer measurements of assembled RoPod are 25.6 x 75 x 10.6 mm, compatible with standard inverted microscope stages
+-	Chamber V = ca 6 ml, we recommend using 3 ml of medium
+-	Designed for 24 x 60 x 0.17mm (#1.5) microscopy coverglass 
+-	Glass is incorporated into the chamber and the lid during printing
+-	The .3mf presliced file has the following helpful presets: "Height range" layer height set for individual sets of layers to cut down the printing time. "Avoid crossing perimeters" setting selected for less stringing and postprocessing. Brim to prevent corners from lifting up
+
+|Version <img width="50"> |Preview<img width="800">|Files <img width="900"> |Comments<img width="300">|
+| --- | --- | ---|---|
+|**v1.1**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v1.1/RoPod%20v1.1.png?raw=true" width="400" title="RoPod 1.1 preview"> |<details><summary>Model files</summary><br/> Sliced file (ready to print):<br/>[RoPod v1.1.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v1.1/RoPod%20v1.1.3mf)<br/><br/>  Autodesk Fusion 360 file: <br/> [RoPod v1.1.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v1.1/RoPod%20v1.1.f3d)</details><br/> <details><summary>Printing instructions</summary><br/> 1. Printing one RoPod taked about 50 mins (on Prusa MK3S+) and ca 10 g of filament <br/><br/> 2. For general instructions see the information above ("How to print RoPods")</details> | The slicing settings "Height range" and "Avoid crossing perimeters" used in the presliced .3mf file are helful for cutting down the printing and postprocessing time for all the RoPods| 
 
 ### RoPod v26 
 -	**This large RoPod is designed for 64 x 48 x 0.17mm (#1.5) microscopy glass**
@@ -146,7 +157,6 @@ Below you can find the most used versions of RoPods optimized for a number of di
 |**v26.2**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v2/RoPod%2026.2.png" width="400" title="RoPod v26.2 preview"> |<details><summary>Model files</summary><br/> Individual model files: <br/>[RoPod v26.2.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v2/RoPod%2026.2.3mf)<br/><br/> Sliced file (ready to print): <br/>[RoPod v26.2 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v2/RoPod%2026.2%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v26.2.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v2/RoPod%2026.2.f3d)|21 channels| 
 |**v26.3**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v3/RoPod%2026.3.png" width="400" title="RoPod v26.3 preview"> |<details><summary>Model files</summary><br/> Individual model files: <br/>[RoPod v26.3.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v3/RoPod%2026.3.3mf)<br/><br/> Sliced file (ready to print): <br/>[RoPod v26.3 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v3/RoPod%2026.3%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v26.3.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v3/RoPod%2026.3.f3d)|14 channels <br/> Suitable for imaging of roots even in the channels at the sides, as the chamber is redesigned to be more accessible for objectives with large magnification| 
 |**v26.4**|  <img src="https://github.com/AlyonaMinina/Files.for.RoPod.reps/blob/main/RoPod.v26/v4/RoPod%2026.4.png" width="400" title="RoPod v26.4 preview"> |<details><summary>Model files</summary><br/> Individual model files: <br/>[RoPod v26.4.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v4/RoPod%2026.4.3mf)<br/><br/> Sliced file (ready to print): <br/>[RoPod v26.4 with lid adaptable layer height.3mf](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v4/RoPod%2026.4%20with%20lid%20-%20adaptable%20layer%20height.3mf)<br/><br/> Autodesk Fusion 360 file: <br/> [RoPod v26.4.f3d](https://github.com/AlyonaMinina/Files.for.RoPod.reps/raw/main/RoPod.v26/v4/RoPod%2026.4.f3d)|4 compartments to grow 4 genotypes close to each other but avoid mix-ups<br/> Suitable for imaging of roots even in the channels at the sides, as the chamber is redesigned to be more accessible for objectives with large magnification|
-
 
 ### RoPod v25 
 -	**This large RoPod is designed for 64 x 48 x 0.17mm (#1.5) microscopy glass**
